@@ -1,8 +1,5 @@
 ### 👋 Hi, I’m Pavel Cherepanov.  
-I was the fullstack PHP developer for 1 year, and the fullstack NodeJS (+ ReactJS, MongoDB) Developer for 2 years  
-  
-Now I'm a Vue js developer for 2 years. I really love it!  
-  
+ 
 🔭 I’m currently open to work  
 👀 Now I’m interested in deep learning of Nest js technology  
 🔥I have a passion for writing clean, clear, modular code, and helping other developers develop. 
